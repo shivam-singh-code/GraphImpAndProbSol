@@ -52,7 +52,7 @@ class Graphs {
     }
 }
 
-public class DFS{
+public class BFS{
     public static void main(String[]args){
         Graphs g = new Graphs(5);
         g.addEdges(0,1);
